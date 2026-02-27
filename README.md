@@ -33,7 +33,7 @@ The application runs as four Docker services:
 | Service            | Port | Description                              |
 | ------------------ | ---- | ---------------------------------------- |
 | PostgreSQL         | 5432 | Stores merchants, orders, payments       |
-| Backend API        | 8000 | Handles authentication, orders, payments |
+| Backend API        | 8001 | Handles authentication, orders, payments |
 | Dashboard Frontend | 3000 | Merchant dashboard                       |
 | Checkout Frontend  | 3001 | Hosted checkout page                     |
 
